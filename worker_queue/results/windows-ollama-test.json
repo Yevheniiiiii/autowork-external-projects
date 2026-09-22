@@ -1,0 +1,6 @@
+{
+  "task_id": "windows-ollama-test",
+  "status": "COMPLETED",
+  "model": "llama3.2:latest",
+  "result": "AUTOWORK_OLLAMA_OK"
+}
