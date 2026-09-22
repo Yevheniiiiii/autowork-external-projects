@@ -1,0 +1,7 @@
+{
+    "created_at":  "2026-09-22T16:05:52.2137393Z",
+    "title":  "AutoWork Windows Ollama connectivity test",
+    "task_id":  "windows-ollama-test",
+    "prompt":  "This is a connectivity test. Reply exactly: AUTOWORK_OLLAMA_OK",
+    "source":  "system_test"
+}
