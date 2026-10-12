@@ -1,7 +1,7 @@
 {
   "schema": "AUTOWORK_WATCH_V1",
-  "run_id": "autowork-watch-20261012T205042+0300",
-  "generated_at": "2026-10-12T20:50:42+03:00",
+  "run_id": "autowork-watch-20261012T214559+0300",
+  "generated_at": "2026-10-12T21:45:59+03:00",
   "items": [
     {
       "source_url": "https://www.apidubai.ae/contact-us",
@@ -6604,6 +6604,26 @@
       "contact_source_url": "https://astratech.ae/contact",
       "contact_verified": false,
       "buyer_or_company_evidence": "Official Astra Tech website identifies the company as the parent of botim and states that its ecosystem integrates fintech, e-commerce, AI-powered technology and communication services, serving more than 150 million users across 155 countries. The official contact page provides a contact route, but the displayed email addresses are support addresses rather than verified commercial business emails.",
+      "budget": null,
+      "currency": null,
+      "language": "en"
+    },
+    {
+      "source_url": "https://getbaraka.com/",
+      "source_name": "baraka official website",
+      "source_item_id": "company:getbaraka.com",
+      "title": "baraka — UAE digital investment and AI wealth platform",
+      "description": "DIFC-regulated digital investment platform offering access to more than 10,000 assets, baraka AI, automated investing, stock analysis, investor-calendar and income tools; relevant to Python backend engineering, financial-data integrations, workflow automation and AI-agent development.",
+      "company": "Baraka Financial Limited",
+      "contact_name": null,
+      "country": "United Arab Emirates",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "OWNER_REVIEW",
+      "contact_value": null,
+      "contact_source_url": "https://getbaraka.com/contact",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Official website states that Baraka Financial Limited is registered in Dubai International Financial Centre and regulated by the DFSA. It presents a digital platform covering 10,000+ assets and product features including baraka AI, Auto-Invest, stock analysis, reports and investor tools, and provides an official Contact Us path. No verified public commercial business email was found on the reviewed official pages.",
       "budget": null,
       "currency": null,
       "language": "en"
