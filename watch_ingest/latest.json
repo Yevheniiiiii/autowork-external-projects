@@ -1,7 +1,7 @@
 {
   "schema": "AUTOWORK_WATCH_V1",
-  "run_id": "autowork-watch-20261012T084835+0300",
-  "generated_at": "2026-10-12T08:48:35+03:00",
+  "run_id": "autowork-watch-20261012T114841+0300",
+  "generated_at": "2026-10-12T11:48:41+03:00",
   "items": [
     {
       "source_url": "https://www.apidubai.ae/contact-us",
@@ -5987,6 +5987,66 @@
       "budget": null,
       "currency": null,
       "language": "en"
+    },
+    {
+      "source_url": "https://www.freelancer.com/projects/odoo/odoo-whatsapp-support-ticket-integration",
+      "source_name": "Freelancer",
+      "source_item_id": "freelancer:40763171",
+      "title": "Odoo-WhatsApp Support Ticket Integration",
+      "description": "Integrate an approved Meta WhatsApp Business API number with an existing Odoo instance so chats create, update, and close Helpdesk tickets, agents can reply inside Odoo, message history is preserved, and tickets remain linked to Sales quotations/orders; includes end-to-end testing and staging documentation.",
+      "company": "Freelancer.com client",
+      "contact_name": null,
+      "country": "Brazil",
+      "published_at": "2026-10-12",
+      "opportunity_type": "FREELANCE_PROJECT",
+      "contact_strategy": "PLATFORM_APPLY",
+      "contact_value": null,
+      "contact_source_url": "https://www.freelancer.com/projects/odoo/odoo-whatsapp-support-ticket-integration",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Primary Freelancer project page shows $15-25 USD/hour, status Open, Open for bidding, Ends in 6 days, Project ID 40763171, and client location Piracicaba, Brazil. The brief explicitly requests Meta WhatsApp Business API, Odoo Helpdesk/Sales integration, webhooks, Python/Odoo work, testing, and documentation.",
+      "budget": null,
+      "currency": "USD",
+      "language": "English"
+    },
+    {
+      "source_url": "https://www.freelancer.com/projects/data-scraping/one-time-website-data-scraping",
+      "source_name": "Freelancer",
+      "source_item_id": "freelancer:40752808",
+      "title": "One-Time Website Data Scraping",
+      "description": "Build a reusable, well-commented Python scraper for a one-off extraction of publicly available text, images, tables, and other useful website data, with polite throttling, CSV/JSON output, optional downloaded images, and a short setup README.",
+      "company": "Freelancer.com client",
+      "contact_name": null,
+      "country": "Austria",
+      "published_at": "2026-10-08",
+      "opportunity_type": "FREELANCE_PROJECT",
+      "contact_strategy": "PLATFORM_APPLY",
+      "contact_value": null,
+      "contact_source_url": "https://www.freelancer.com/projects/data-scraping/one-time-website-data-scraping",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Primary Freelancer project page was indexed on 2026-10-08 and shows $250-750 USD, status Open, Open for bidding, Ends in 6 days, Project ID 40752808, and client country Austria. The paid brief requests Python with Scrapy, BeautifulSoup, Selenium or a similar stack plus data delivery and documentation.",
+      "budget": null,
+      "currency": "USD",
+      "language": "English"
+    },
+    {
+      "source_url": "https://docs.paytabs.com/",
+      "source_name": "PayTabs",
+      "source_item_id": "company:paytabs.com",
+      "title": "PayTabs — payments API and workflow-automation outreach",
+      "description": "Payments-infrastructure company serving MENA with five API integration types, mobile SDKs, e-commerce plugins, backend packages, support tooling, and merchant workflows. Strong fit for Python/API integration, backend automation, payment operations, support automation, and AI-assisted business processes.",
+      "company": "PayTabs",
+      "contact_name": null,
+      "country": "United Arab Emirates",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "OWNER_REVIEW",
+      "contact_value": null,
+      "contact_source_url": "https://site.paytabs.com/en/contact/",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Official PayTabs Technical Portal states that PayTabs provides payments infrastructure across MENA and documents five API integration types, mobile SDKs, e-commerce plugins, Laravel/Node.js backend packages, and an AI support assistant. The official contact page provides dedicated sales, technical-support, partnership, and UAE contact paths and lists UAE among its markets.",
+      "budget": null,
+      "currency": null,
+      "language": "English"
     }
   ]
 }
