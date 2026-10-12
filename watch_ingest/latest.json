@@ -1,7 +1,7 @@
 {
   "schema": "AUTOWORK_WATCH_V1",
-  "run_id": "autowork-watch-20261012T175516+0300",
-  "generated_at": "2026-10-12T17:55:16+03:00",
+  "run_id": "autowork-watch-20261012T184950+0300",
+  "generated_at": "2026-10-12T18:49:50+03:00",
   "items": [
     {
       "source_url": "https://www.apidubai.ae/contact-us",
@@ -6464,6 +6464,26 @@
       "contact_source_url": "https://www.quiqup.com/contact",
       "contact_verified": false,
       "buyer_or_company_evidence": "Official site identifies Quiqup as a modern UAE fulfilment partner for e-commerce brands and lists delivery, fulfilment, international and returns services; the official api-docs.quiqup.com subdomain confirms an API surface, while the contact page provides a business-needs form and expert-contact path.",
+      "budget": null,
+      "currency": null,
+      "language": "en"
+    },
+    {
+      "source_url": "https://jeebly.com/",
+      "source_name": "Jeebly official website",
+      "source_item_id": "company:jeebly.com",
+      "title": "Jeebly — UAE tech-driven logistics and delivery platform",
+      "description": "UAE logistics company providing delivery, fulfilment, supply-chain and warehousing services through a tech-driven platform with multiple APIs, partner integrations, real-time tracking, automated notifications and electronic proof of delivery.",
+      "company": "Jeebly",
+      "contact_name": null,
+      "country": "United Arab Emirates",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "PUBLIC_EMAIL",
+      "contact_value": "connect@jeebly.com",
+      "contact_source_url": "https://jeebly.com/",
+      "contact_verified": true,
+      "buyer_or_company_evidence": "Official website describes Jeebly as a 360-degree tech-driven logistics company, lists multiple APIs and integration options, real-time shipment and fleet tracking, SMS/email/WhatsApp notifications, and seamless API integrations with Shopify, WooCommerce, Magento and other partners. The same official page publishes connect@jeebly.com under Contact us.",
       "budget": null,
       "currency": null,
       "language": "en"
