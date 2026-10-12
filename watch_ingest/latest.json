@@ -1,7 +1,7 @@
 {
   "schema": "AUTOWORK_WATCH_V1",
-  "run_id": "autowork-watch-20261012T162553+0300",
-  "generated_at": "2026-10-12T16:25:53+03:00",
+  "run_id": "autowork-watch-20261012T172030+0300",
+  "generated_at": "2026-10-12T17:20:30+03:00",
   "items": [
     {
       "source_url": "https://www.apidubai.ae/contact-us",
@@ -6367,6 +6367,66 @@
       "budget": null,
       "currency": null,
       "language": "English"
+    },
+    {
+      "source_url": "https://www.freelancer.com/projects/dot-net/build-automation-with-flows-rag",
+      "source_name": "Freelancer",
+      "source_item_id": "freelancer:40763802",
+      "title": "Build Automation with n8n Flows and RAG Chatbot",
+      "description": "Build two production-ready automation flows: n8n ticket triage with Jira or ServiceNow and email or Teams notifications, plus a RAG chatbot over knowledge-base, PDF and ticket content using a vector database and OpenAI or Gemini, with source references, escalation and deployment documentation.",
+      "company": "Freelancer.com client",
+      "contact_name": null,
+      "country": "United Kingdom",
+      "published_at": "2026-10-12",
+      "opportunity_type": "FREELANCE_PROJECT",
+      "contact_strategy": "PLATFORM_APPLY",
+      "contact_value": null,
+      "contact_source_url": "https://www.freelancer.com/projects/dot-net/build-automation-with-flows-rag",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Primary listing shows Project ID 40763802, £375–750 GBP, Paid on Delivery, status Open, Posted 1 minute ago, Ends in 6 days and an active bid form; client location is shown as United Kingdom and payment is verified.",
+      "budget": null,
+      "currency": "GBP",
+      "language": "en"
+    },
+    {
+      "source_url": "https://www.freelancer.com/projects/wordpress/forex-trading-platform-revamp-marketing",
+      "source_name": "Freelancer",
+      "source_item_id": "freelancer:40763818",
+      "title": "Forex Trading Platform Revamp & Marketing Plan",
+      "description": "A 90-day phased engagement covering WordPress platform optimization, Python automation, API integrations, data processing and analytics, tracking dashboards, CRM, email and marketing operations.",
+      "company": "Freelancer.com client",
+      "contact_name": null,
+      "country": "Kenya",
+      "published_at": "2026-10-12",
+      "opportunity_type": "TERM_PROJECT",
+      "contact_strategy": "PLATFORM_APPLY",
+      "contact_value": null,
+      "contact_source_url": "https://www.freelancer.com/projects/wordpress/forex-trading-platform-revamp-marketing",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Primary listing shows Project ID 40763818, €750–1,500 EUR, Paid on Delivery, status Open, Posted 1 minute ago, Ends in 6 days and an active bid form; client location is shown as Lauterbourg, Kenya.",
+      "budget": null,
+      "currency": "EUR",
+      "language": "en"
+    },
+    {
+      "source_url": "https://dubaicommercity.ae/",
+      "source_name": "Dubai CommerCity official website",
+      "source_item_id": "company:dubaicommercity.ae",
+      "title": "Dubai CommerCity — digital-commerce free zone",
+      "description": "Dubai digital-commerce free zone whose advanced digital infrastructure, e-commerce operations and IT-support ecosystem are a strong fit for backend services, API integrations and business-process automation.",
+      "company": "Dubai CommerCity",
+      "contact_name": null,
+      "country": "United Arab Emirates",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "OWNER_REVIEW",
+      "contact_value": null,
+      "contact_source_url": "https://dubaicommercity.ae/contact-us/",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Official website describes Dubai CommerCity as a digital-commerce free zone offering advanced digital infrastructure and IT support; the official contact page provides a company contact form and Dubai address.",
+      "budget": null,
+      "currency": null,
+      "language": "en"
     }
   ]
 }
