@@ -1,7 +1,7 @@
 {
   "schema": "AUTOWORK_WATCH_V1",
-  "run_id": "autowork-watch-20261013T164420+0300",
-  "generated_at": "2026-10-13T16:44:20+03:00",
+  "run_id": "autowork-watch-20261013T174517+0300",
+  "generated_at": "2026-10-13T17:45:17+03:00",
   "items": [
     {
       "source_url": "https://www.apidubai.ae/contact-us",
@@ -8184,6 +8184,26 @@
       "contact_source_url": "https://www.pyflowlabs.com/contact",
       "contact_verified": true,
       "buyer_or_company_evidence": "PyFlow Labs' official services page describes production AI/ML solutions, chatbots, NLP, data pipelines, real-time processing, API integration and custom integrations. Its official contact page lists SPC Free Zone, Sharjah, UAE and publicly provides hello@pyflowlabs.com for project and partnership inquiries.",
+      "budget": null,
+      "currency": null,
+      "language": "English"
+    },
+    {
+      "source_url": "https://company.wego.com/",
+      "source_name": "Wego official website",
+      "source_item_id": "company:wego.com",
+      "title": "Wego UAE — Travel Platform Backend, API and AI Automation Outreach",
+      "description": "Wego operates a Dubai-based MENA travel-technology marketplace serving millions of monthly users across flight and hotel search, booking, mobile platforms, corporate travel and bed distribution. This is a strong fit for Python backend engineering, supplier and booking API integrations, workflow automation, data pipelines and LLM-assisted travel operations.",
+      "company": "Wego Pte Ltd",
+      "contact_name": null,
+      "country": "United Arab Emirates",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "OWNER_REVIEW",
+      "contact_value": null,
+      "contact_source_url": "https://company.wego.com/partner-with-us/",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Wego’s official company site states that it was founded in 2005, serves millions of monthly users, operates its MENA business from Dubai, and runs travel search, marketplace and booking products. Its official partner page invites business inquiries through a form handled by the advertising team. Sources: https://company.wego.com/ and https://company.wego.com/partner-with-us/.",
       "budget": null,
       "currency": null,
       "language": "English"
