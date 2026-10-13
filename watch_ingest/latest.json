@@ -1,7 +1,7 @@
 {
   "schema": "AUTOWORK_WATCH_V1",
-  "run_id": "autowork-watch-20261014T014553+0300",
-  "generated_at": "2026-10-14T01:45:53+03:00",
+  "run_id": "autowork-watch-20261014T024224+0300",
+  "generated_at": "2026-10-14T02:42:24+03:00",
   "items": [
     {
       "source_url": "https://www.apidubai.ae/contact-us",
@@ -8664,6 +8664,26 @@
       "contact_source_url": "https://smartlogitecx.com/",
       "contact_verified": true,
       "buyer_or_company_evidence": "The official site states that SMARTLOGITECX delivers robot solutions for logistics automation, describes AI- and IoT-based intelligent-airport systems and data-driven warehouse management, identifies the company as a provider of intelligent logistics systems in Sydney, and publishes the generic business email hello@smartlogitecx.com.au.",
+      "budget": null,
+      "currency": null,
+      "language": "en"
+    },
+    {
+      "source_url": "https://www.letswork.io/",
+      "source_name": "Letswork",
+      "source_item_id": "company:letswork.io",
+      "title": "Letswork — workspace booking platform integration opportunity",
+      "description": "Letswork operates a multi-country digital platform for coworking, meeting-room, office and studio discovery, memberships, instant bookings and app-based check-ins. Its marketplace and business workflows are a concrete fit for Python backend services, API integrations, operational automation, analytics and AI-assisted support.",
+      "company": "Letswork Technologies LLC",
+      "contact_name": null,
+      "country": "United Arab Emirates",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "OWNER_REVIEW",
+      "contact_value": null,
+      "contact_source_url": "https://www.letswork.io/contact",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "The official About page states that Letswork Technologies LLC was founded in Dubai and is headquartered there, and that its platform connects more than 80,000 members with 1,030+ workspaces across 63+ cities in 18+ countries. The official site shows memberships, instant bookings and one-tap app check-ins, while the official Contact page provides a business inquiry form.",
       "budget": null,
       "currency": null,
       "language": "en"
