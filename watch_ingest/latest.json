@@ -1,7 +1,7 @@
 {
   "schema": "AUTOWORK_WATCH_V1",
-  "run_id": "autowork-watch-20261013T145030+0300",
-  "generated_at": "2026-10-13T14:50:30+03:00",
+  "run_id": "autowork-watch-20261013T155010+0300",
+  "generated_at": "2026-10-13T15:50:10+03:00",
   "items": [
     {
       "source_url": "https://www.apidubai.ae/contact-us",
@@ -8086,6 +8086,26 @@
       "buyer_or_company_evidence": "Primary Freelancer listing shows Project ID 40765375, status Open and Open for bidding, posted on 2026-10-13, ending in 6 days, remote hourly terms of GBP 10–15, a live platform bid form and client location London, United Kingdom.",
       "budget": null,
       "currency": "GBP",
+      "language": "English"
+    },
+    {
+      "source_url": "https://veengu.com/",
+      "source_name": "Veengu official website",
+      "source_item_id": "company:veengu.com",
+      "title": "Veengu UAE — Fintech Platform Automation and API Integration Outreach",
+      "description": "Dubai-based core-banking and payment-orchestration software company with 600+ documented APIs, webhooks, configurable workflows, KYC/payment integrations, reporting and custom scripting; relevant to Python backend engineering, partner connectors, business-process automation and AI-enabled operational tooling.",
+      "company": "Veengu - FZCO",
+      "contact_name": null,
+      "country": "United Arab Emirates",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "PUBLIC_EMAIL",
+      "contact_value": "sales@veengu.com",
+      "contact_source_url": "https://veengu.com/contact-us/",
+      "contact_verified": true,
+      "buyer_or_company_evidence": "Veengu's official website identifies Veengu - FZCO at Dubai Digital Park in Dubai and describes an active modular core-banking and payment-orchestration platform with 600+ documented APIs, webhooks, integrations, configurable workflows, analytics and custom business logic. The official contact page publicly lists sales@veengu.com for commercial inquiries.",
+      "budget": null,
+      "currency": null,
       "language": "English"
     }
   ]
