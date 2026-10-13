@@ -1,7 +1,7 @@
 {
   "schema": "AUTOWORK_WATCH_V1",
-  "run_id": "autowork-watch-20261013T135028+0300",
-  "generated_at": "2026-10-13T13:50:28+03:00",
+  "run_id": "autowork-watch-20261013T145030+0300",
+  "generated_at": "2026-10-13T14:50:30+03:00",
   "items": [
     {
       "source_url": "https://www.apidubai.ae/contact-us",
@@ -8046,6 +8046,46 @@
       "buyer_or_company_evidence": "Nexthink's official website identifies an active DEX data and automation platform used by 1,500+ global enterprises, with AI-powered IT agents, automated workflows and APIs/connectors. Its official careers page identifies Lausanne as a main company hub, and the official site provides a Request a demo contact path.",
       "budget": null,
       "currency": null,
+      "language": "English"
+    },
+    {
+      "source_url": "https://www.freelancer.com/projects/data-analytics/whop-reseller-analytics-dashboard",
+      "source_name": "Freelancer.com primary listing",
+      "source_item_id": "freelancer:40765438",
+      "title": "Whop AI Reseller Analytics Dashboard",
+      "description": "Build a modular reseller analytics dashboard for a Whop AI store with purchase-history cohorts, product-usage metrics, near-real-time refresh, filters, drill-downs, CSV/Excel export and a Python, Node or Go backend.",
+      "company": "Freelancer.com client",
+      "contact_name": null,
+      "country": "Nepal",
+      "published_at": "2026-10-13",
+      "opportunity_type": "FREELANCE_PROJECT",
+      "contact_strategy": "PLATFORM_APPLY",
+      "contact_value": null,
+      "contact_source_url": "https://www.freelancer.com/projects/data-analytics/whop-reseller-analytics-dashboard",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Primary Freelancer listing shows Project ID 40765438, status Open and Open for bidding, posted on 2026-10-13, ending in 6 days, paid-on-delivery terms of USD 30–250, a live platform bid form, remote status and client location Kathmandu, Nepal.",
+      "budget": null,
+      "currency": "USD",
+      "language": "English"
+    },
+    {
+      "source_url": "https://www.freelancer.com/projects/data-analysis/bitcoin-trading-strategy-backtesting",
+      "source_name": "Freelancer.com primary listing",
+      "source_item_id": "freelancer:40765375",
+      "title": "Bitcoin Trading Strategy Backtesting in Python",
+      "description": "Collect historical Bitcoin price, funding-rate, open-interest and liquidation data, align it with supplied predictions, build a Python backtest and deliver source code plus a report on accuracy, risk and potential profitability.",
+      "company": "Freelancer.com client",
+      "contact_name": null,
+      "country": "United Kingdom",
+      "published_at": "2026-10-13",
+      "opportunity_type": "FREELANCE_PROJECT",
+      "contact_strategy": "PLATFORM_APPLY",
+      "contact_value": null,
+      "contact_source_url": "https://www.freelancer.com/projects/data-analysis/bitcoin-trading-strategy-backtesting",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Primary Freelancer listing shows Project ID 40765375, status Open and Open for bidding, posted on 2026-10-13, ending in 6 days, remote hourly terms of GBP 10–15, a live platform bid form and client location London, United Kingdom.",
+      "budget": null,
+      "currency": "GBP",
       "language": "English"
     }
   ]
