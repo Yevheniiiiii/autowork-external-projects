@@ -1,7 +1,7 @@
 {
   "schema": "AUTOWORK_WATCH_V1",
-  "run_id": "autowork-watch-20261014T084348+0300",
-  "generated_at": "2026-10-14T08:43:48+03:00",
+  "run_id": "autowork-watch-20261014T094341+0300",
+  "generated_at": "2026-10-14T09:43:41+03:00",
   "items": [
     {
       "source_url": "https://www.apidubai.ae/contact-us",
@@ -9007,6 +9007,66 @@
       "budget": null,
       "currency": null,
       "language": "en"
+    },
+    {
+      "source_url": "https://omnipack.com/pl/",
+      "source_name": "Omnipack",
+      "source_item_id": "company:omnipack.com",
+      "title": "Omnipack — Polish API-integrated e-commerce fulfilment platform",
+      "description": "Omnipack operates a technology-enabled fulfilment platform whose WMS integrates with online stores through an API and automatically receives orders for processing. It is a direct fit for Python backend, WMS and marketplace integrations, workflow automation, tracking, analytics and AI-assisted logistics operations.",
+      "company": "Omnipack Sp. z o.o.",
+      "contact_name": null,
+      "country": "Poland",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "PUBLIC_EMAIL",
+      "contact_value": "kontakt@omnipack.com",
+      "contact_source_url": "https://omnipack.com/pl/",
+      "contact_verified": true,
+      "buyer_or_company_evidence": "Omnipack's official Polish site identifies Omnipack Sp. z o.o. in Warsaw and describes an active e-commerce fulfilment service. It states that its WMS exposes an API for store integration, automatically imports customer orders and supports marketplace and courier workflows. The same official page lists kontakt@omnipack.com specifically under Sales.",
+      "budget": null,
+      "currency": null,
+      "language": "pl"
+    },
+    {
+      "source_url": "https://www.edrone.me/pl/platforma/sztuczna-inteligencja",
+      "source_name": "edrone",
+      "source_item_id": "company:edrone.me",
+      "title": "edrone — Polish AI and marketing-automation platform for e-commerce",
+      "description": "edrone provides an AI-driven CRM and marketing-automation platform for online stores, including an MCP connector for ChatGPT and Claude, AI sales chat, recommendations, campaign generation and customer-data integrations. It is a direct fit for Python/API development, data pipelines, workflow automation and LLM agents.",
+      "company": "edrone Sp. z o.o.",
+      "contact_name": null,
+      "country": "Poland",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "PUBLIC_EMAIL",
+      "contact_value": "hello@edrone.me",
+      "contact_source_url": "https://edrone.me/contact",
+      "contact_verified": true,
+      "buyer_or_company_evidence": "The official edrone AI page states that the platform analyzes commerce data, predicts customer needs, recommends products, creates campaigns and offers an MCP Connector linking live store data to ChatGPT, Claude and Perplexity. Official developer documentation covers frontend, backend and mobile integrations. The official contact page identifies the Kraków headquarters and publishes the general address hello@edrone.me.",
+      "budget": null,
+      "currency": null,
+      "language": "pl"
+    },
+    {
+      "source_url": "https://apilo.com/pl/",
+      "source_name": "Apilo",
+      "source_item_id": "company:apilo.com",
+      "title": "Apilo — Polish order-management and e-commerce automation platform",
+      "description": "Apilo provides a cloud order-management platform with more than 650 marketplace, store, courier, ERP, accounting, WMS and wholesaler integrations, plus configurable automation and an API. It is a direct fit for Python backend, API connectors, order and inventory workflows, data synchronization and AI-assisted commerce operations.",
+      "company": "Apilo Sp. z o.o.",
+      "contact_name": null,
+      "country": "Poland",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "OWNER_REVIEW",
+      "contact_value": null,
+      "contact_source_url": "https://apilo.com/pl/",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "Apilo's official site identifies Apilo Sp. z o.o. in Kraków and describes an active OMS that has processed more than 60 million orders and offers 650+ integrations. It documents automated order handling, inventory and price synchronization, invoicing, warehouse workflows and API guidance. The public address shown is for customer service rather than clearly designated commercial outreach, so no email is asserted; the official site is retained for owner review.",
+      "budget": null,
+      "currency": null,
+      "language": "pl"
     }
   ]
 }
