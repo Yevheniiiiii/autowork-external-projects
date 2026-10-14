@@ -1,7 +1,7 @@
 {
   "schema": "AUTOWORK_WATCH_V1",
-  "run_id": "autowork-watch-20261014T024224+0300",
-  "generated_at": "2026-10-14T02:42:24+03:00",
+  "run_id": "autowork-watch-20261014T034608+0300",
+  "generated_at": "2026-10-14T03:46:08+03:00",
   "items": [
     {
       "source_url": "https://www.apidubai.ae/contact-us",
@@ -8684,6 +8684,26 @@
       "contact_source_url": "https://www.letswork.io/contact",
       "contact_verified": false,
       "buyer_or_company_evidence": "The official About page states that Letswork Technologies LLC was founded in Dubai and is headquartered there, and that its platform connects more than 80,000 members with 1,030+ workspaces across 63+ cities in 18+ countries. The official site shows memberships, instant bookings and one-tap app check-ins, while the official Contact page provides a business inquiry form.",
+      "budget": null,
+      "currency": null,
+      "language": "en"
+    },
+    {
+      "source_url": "https://stayqstay.com/",
+      "source_name": "Qstay",
+      "source_item_id": "company:stayqstay.com",
+      "title": "Qstay — AI hospitality and property-management integration opportunity",
+      "description": "Qstay operates a technology-driven hospitality and rental-property platform covering booking, checkout, guest services and investment-property workflows. Its AI-powered customer service, digital concierge, guest app and end-to-end operations are a concrete fit for Python backend work, API integrations, workflow automation, analytics and LLM agents.",
+      "company": "Qstay",
+      "contact_name": null,
+      "country": "United Arab Emirates",
+      "published_at": null,
+      "opportunity_type": "COMPANY_OUTREACH",
+      "contact_strategy": "OWNER_REVIEW",
+      "contact_value": null,
+      "contact_source_url": "https://stayqstay.com/contact-us",
+      "contact_verified": false,
+      "buyer_or_company_evidence": "The official About page states that Qstay uses a technology-driven platform with AI-powered customer service and digital concierge services, manages the guest journey from booking through checkout, and provides end-to-end property acquisition, management and utilization solutions. The official website lists Dubai locations, app-based services and an official contact form.",
       "budget": null,
       "currency": null,
       "language": "en"
